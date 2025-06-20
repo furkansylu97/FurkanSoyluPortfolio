@@ -1,13 +1,11 @@
-import './App.css'
+import "./App.css";
 
 function App() {
-
-
   return (
     <>
-    PortfolioProject
+      <h1 class="text-3xl font-bold underline">PortfolioProject</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
